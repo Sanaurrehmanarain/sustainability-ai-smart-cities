@@ -1,0 +1,22 @@
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+
+# Large Data (Do NOT push raw data to GitHub)
+data/raw/
+data/processed/
+# keep external references or small samples only
+
+# Models (Optional: Block if >100MB, keep if <100MB)
+# ResNet18 is usually ~45MB, so it is safe to push.
+# models/ 
+
+# OS junk
+.DS_Store
+Thumbs.db

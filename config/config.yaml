@@ -1,0 +1,13 @@
+
+project:
+  name: "Sustainability-AI-Smart-Cities"
+  seed: 42
+
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed"
+  satellite_source: "Sentinel-2"
+
+model:
+  cnn_backbone: "resnet50" # or vit_b_16
+  tabular_model: "xgboost"
