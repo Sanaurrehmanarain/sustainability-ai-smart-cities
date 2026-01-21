@@ -50,7 +50,7 @@ We treat the city as a living organism that must be analyzed visually and econom
 💻 How to Run
 1. Clone the repo:
 ``` bash
-git clone [https://github.com/yourusername/sustainability-ai.git](https://github.com/yourusername/sustainability-ai.git)
+git clone https://github.com/Sanaurrehmanarain/sustainability-ai-smart-cities.git
 ```
 2. Install dependencies:
 ``` bash
