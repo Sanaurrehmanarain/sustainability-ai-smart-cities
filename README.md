@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="report.md">
+    <img src="project_cover_photo.png" alt="Techenical Report.pdf" width="100%">
+  </a>
+  <p><em>Click the banner to view the full analysis report</em></p>
+</div>
+
 # 🌍 Multi-Modal "Sustainability AI" for Smart Cities
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
