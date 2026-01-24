@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="report.md">
-    <img src="project_cover_photo.png" alt="Techenical Report.pdf" width="100%">
+  <a href="Technical Report.pdf">
+    <img src="project_cover_photo.png" alt="sustainability-ai-smart-cities" width="100%">
   </a>
   <p><em>Click the banner to view the full analysis report</em></p>
 </div>
